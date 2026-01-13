@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1147.95 954.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6fceea;
+        stroke: url(#zilver);
+        stroke-width: 66px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #0e7e99;
+        stroke-width: 5px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="zilver" x1="0" y1="477.2" x2="1143.49" y2="477.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c3c3c3"/>
+      <stop offset="0" stop-color="#bababa"/>
+      <stop offset=".23" stop-color="#4a4a4a"/>
+      <stop offset=".41" stop-color="#777"/>
+      <stop offset=".59" stop-color="#b0b0b0"/>
+      <stop offset=".77" stop-color="#7d7d7d"/>
+      <stop offset="1" stop-color="#c7c6c5"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-1" d="M69.97,946.54S-141.81,83.17,448.35,51.13c67.92-3.69,135.75-8.81,203.35-16.3,195.66-21.69,581.67,141.65,420.31,911.71"/>
+  <polygon class="cls-3" points="104.94 129.42 142.85 183.55 195.25 204.84 157.71 247.15 147.72 312.48 109.82 258.35 57.41 237.06 94.95 194.74 104.94 129.42"/>
+  <polygon class="cls-3" points="1124.62 788.66 1128.41 827.94 1147.95 853.35 1118.6 866.22 1096.36 898.83 1092.57 859.55 1073.03 834.14 1102.39 821.27 1124.62 788.66"/>
+  <path class="cls-2" d="M534.17,861.58s-7.75-44.41,33.41-49.95c16.78-2.26,31.01,12.68,28.08,29.35-1.56,8.88-5.15,16.95-12.82,19.03"/>
+  <polygon class="cls-3" points="77.05 274.14 94.32 301.54 115.26 312.78 103.42 333.38 103.24 365.77 85.97 338.37 65.04 327.13 76.87 306.53 77.05 274.14"/>
+</svg>

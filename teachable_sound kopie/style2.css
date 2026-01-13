@@ -1,0 +1,53 @@
+body {
+  font-family: "avenir-next-lt-pro-condensed", sans-serif;
+  font-size: 20px;
+  background-color: rgb(205, 236, 255);
+}
+.homebuik {
+  margin-top: 30px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.klikken-kietelen{
+font-family: "avenir-next-lt-pro-condensed", sans-serif;
+font-size: 50px;
+text-align: center;
+margin-top: 20px;
+}
+
+#klikbare-svg {
+  cursor: pointer; 
+  transition: transform 0.2s;
+  width: 60vw;
+  margin-top: 70px;
+  margin-left: 290px;
+  height: auto;
+}
+
+nav {
+  text-align: center;
+  padding: 20px 0;
+}
+
+nav a {
+  text-decoration: none;
+  color: rgb(255, 131, 247);
+  font-family: "avenir-next-lt-pro", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 25px;
+  padding-top: 30px;
+  border: 2px solid rgb(248, 255, 56); 
+  padding: 20px;            
+  width: 200px;            
+  text-align: center;  
+  background-color: rgb(154, 255, 196);
+  
+}
+
+nav a:hover {
+  color: rgb(255, 196, 102);
+}
+
+
